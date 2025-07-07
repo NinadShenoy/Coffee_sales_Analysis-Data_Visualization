@@ -129,16 +129,16 @@ Below are the main steps followed to build this Power BI project:
 ##  Dashboard Previews
 
 ### 1️ Executive Summary
-![Executive Summary](https://github.com/NinadShenoy/Coffe_sales_Analysis_Data_Visualization/blob/main/Screenshot-Executive%20Summary.png?raw=true)
+![Executive Summary](https://raw.githubusercontent.com/NinadShenoy/Coffee_sales_Analysis-Data_Visualization/main/Screenshot-Executive%20Summary.png)
 
 ### 2️ Sales & Revenue
-![Sales & Revenue](https://github.com/NinadShenoy/Coffe_sales_Analysis_Data_Visualization/raw/main/Screenshot-Sales%20%26%20Revenue.png)
+![Sales & Revenue](https://raw.githubusercontent.com/NinadShenoy/Coffee_sales_Analysis-Data_Visualization/main/Screenshot-Sales%20%26%20Revenue.png)
 
 ### 3️ Customer & Payment Behavior
-![Customer & Payment Behavior](https://github.com/NinadShenoy/Coffe_sales_Analysis_Data_Visualization/raw/main/Screenshot-Customer%20%26%20Payment%20Behavior.png)
+![Customer & Payment Behavior](https://raw.githubusercontent.com/NinadShenoy/Coffee_sales_Analysis-Data_Visualization/main/Screenshot-Customer%20%26%20Payment%20Behavior.png)
 
 ### 4️ Transaction Insight
-![Transaction Insight](https://github.com/NinadShenoy/Coffe_sales_Analysis_Data_Visualization/raw/main/Screenshot-Transaction%20Insight.png)
+![Transaction Insight](https://raw.githubusercontent.com/NinadShenoy/Coffee_sales_Analysis-Data_Visualization/main/Screenshot-Transaction%20Insight.png)
 
 ---
 

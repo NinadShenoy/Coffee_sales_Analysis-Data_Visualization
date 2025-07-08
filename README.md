@@ -83,7 +83,6 @@ Payment method, Date & Time, Coffee Type, Cost Per Order
 
 I used **ChatGPT** to:
 
-* Write and refine DAX measures (e.g., for default rate, MoM, QoQ, and YoY growth)
 * Suggest the best visual types for presenting insights
 * Structure the dashboard pages to tell a clear business story
 

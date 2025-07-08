@@ -84,7 +84,8 @@ Payment method, Date & Time, Coffee Type, Cost Per Order
 I used **ChatGPT** to:
 
 * Suggest the best visual types for presenting insights
-* Structure the dashboard pages to tell a clear business story
+* Structure the dashboard pages
+* To generate business questions
 
 ---
 

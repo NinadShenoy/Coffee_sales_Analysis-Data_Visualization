@@ -43,11 +43,11 @@ Payment method, Date & Time, Coffee Type, Cost Per Order
 * Total Revenue
 * Total Orders
 * Avg Spend
-* Card Payments
+* Total Card Payments
 
 ###  Trend Analysis
 
-* Monthly revenue, Time-of-day revenue
+* Monthly revenue, Revenue by Time of Day
 * Top products 
 
 ###  User Behavior 
@@ -116,7 +116,7 @@ Below are the main steps followed to build this Power BI project:
 
    * Designed interactive visuals and KPIs.
    * Applied slicers and filters (Coffee Type, Payment Method, Date Range).
-   * Used **DAX** for custom calculations like Total Revenue,Total Orders.
+   * Used **DAX** for custom calculations like Total Revenue, Total Orders.
 
 6. **Testing & Review**
 
@@ -143,7 +143,12 @@ Below are the main steps followed to build this Power BI project:
 
 ### **Project Insight**
 
-This coffee sales analysis tracks ₹115.43K revenue from over 3,600 orders between Mar 2024–Mar 2025. Latte is the top-selling drink across all months, and noon-to-afternoon time slots generate the most revenue. Cards are the dominant payment mode, accounting for 97.5% of transactions. Loyal card users significantly contribute to recurring revenue and order volume.
+This coffee sales analysis shows the following key finding, 
+* "₹115.43K revenue from over 3,600 orders was generated between Mar 2024–Mar 2025."
+* "Latte is the top-selling drink across all months."
+* "Noon-to-afternoon time slots generate the most revenue."
+* "Cards are the dominant payment mode, accounting for 97.5% of transactions."
+* "Loyal card users significantly contribute to recurring revenue and order volume."
 
 ---
 
